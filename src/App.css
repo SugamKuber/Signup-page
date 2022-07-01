@@ -1,0 +1,132 @@
+* {
+  background-color: #e7e0e0;
+  box-sizing: border-box;
+}
+
+
+.main-body {
+  margin: 20px;
+  padding: 40px;
+  width: 500px;
+  height: 400px;
+  display: block;
+  position: fixed;
+  top: 15%;
+  left: 12%;
+}
+.h1-1{
+  color:#4f4f4f;
+}
+.h1-2{
+  color:#4c15f6;
+}
+.main-p{
+  color:#767a87;
+}
+
+.signup {
+  padding: 30px;
+  display: block;
+  width: 350px;
+  height: 450px;
+  border-radius:10px; 
+  position: fixed;
+  top: 12%;
+  right: 20%;
+  background-color: #ffffff;
+}
+
+.top-row{
+  margin:10px;
+  padding:10px;
+
+}
+
+.container{
+  background-color:#ffff;
+}
+
+input{
+  border-radius: 3px;
+  background-color: #ffff;
+  border:2px #8e8b8b solid;
+  padding: 20px; 
+  width: 120px;
+  height: 5px;
+  margin:10px;
+  text-align:center;
+}
+
+.inbox{
+  width:260px;
+}
+.but{
+  border-radius: 3px;
+  border: 2px ;
+  background-color: #4c15f6;
+  color:#ffff;
+  padding: 12px; 
+  width:260px;  
+  margin:10px;
+  overflow: hidden;
+  cursor: pointer;
+  float:center;
+}
+
+.but:hover{
+background-color: rgb(0, 0, 0);
+color: #ddd;
+transition:1s;
+
+}
+
+.footer{
+float:right;
+cursor: pointer;
+}
+
+a{
+color:#11658b;
+}
+.content {
+  top: 100px;
+  left: 16px;
+  font-size: 18px;
+  padding-top: 20px;
+  padding-left: 80px;
+}
+.tickbox{
+  height:15px;
+}
+
+.form-control {
+  background-color: #ffff;
+  font-size: 12px;
+  padding-left:40px;
+}
+.checkbox{
+  width:12px;
+  height:12px;
+  background-color: blue;
+  cursor: pointer;
+}
+
+.icon{
+  background-color:#ffff;
+  text-align: center;
+}
+h6{
+  background-color:#ffff;
+  color:#4f4f4f;
+}
+.img{
+  background-color:#fff;
+  width:20px;
+  height:20px;
+  cursor: pointer;
+  
+}
+
+a{
+  background-color:#fff;
+}
